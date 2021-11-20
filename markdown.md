@@ -46,7 +46,7 @@ Example
 ``` 
 The <span> width </span> and <span> height</span> attributes always define the width and height of the image in pixels.
 
-## Common Image Formats
+## Common Image Formats (CIF)
 
 Here are the most common image file types, which are supported in all browsers (Chrome, Edge, Firefox, Safari, Opera):
 
